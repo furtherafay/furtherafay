@@ -41,24 +41,7 @@ Supabase · Docker · Railway · REST APIs · Auth Systems · SQL · CI/CD · Li
 ### 🧩 Notable Experience
 - 🧱 Built and shipped **client-facing SaaS systems** (POS, booking, dashboards)
 - ⚙️ Automated tenant provisioning & backend workflows
-- 🏢 Worked as a **Software Engineer & Intern (Web/App)** alongside university
 - 🎓 CS graduate from **FAST NUCES, Islamabad**
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=furtherafay&show_icons=true&include_all_commits=true&count_private=true"
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=furtherafay&layout=compact"
-    height="165"
-  />
-</p>
-
 
 ---
 
