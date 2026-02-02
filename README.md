@@ -1,18 +1,73 @@
 <h1 align="center">Hi 👋, I'm Rafay Siddiqui</h1>
-<h3 align="center">I build and scale SaaS apps</h3>
+<h3 align="center">Full-Stack Software Engineer | SaaS Builder | Problem Solver</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=furtherafay&label=Profile%20views&color=0e75b6&style=flat" alt="furtherafay" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rafay-siddiqui-868a57219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furtherafay" height="30" width="40" /></a>
+<p align="center">
+I design, build, and scale production-ready SaaS applications — from idea to deployment.
+<br />
+Strong focus on clean architecture, automation, and real-world systems that actually ship.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=furtherafay&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furtherafay&show_icons=true&locale=en&layout=compact" alt="furtherafay" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furtherafay&show_icons=true&locale=en" alt="furtherafay" /></p>
-<h3 align="left">Stats:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furtherafay&" alt="furtherafay" /></p>
+### 🚀 What I Do
+- Build **end-to-end SaaS products** (auth, multi-tenancy, billing, dashboards)
+- Design **scalable backends** and clean APIs
+- Automate workflows using **triggers, queues, and background jobs**
+- Ship fast using modern web stacks — without sacrificing maintainability
+
+---
+
+### 🧠 Tech I Work With
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" /></a>
+</p>
+
+**Also comfortable with:**  
+Supabase · Docker · Railway · REST APIs · Auth Systems · SQL · CI/CD · Linux
+
+---
+
+### 🧩 Notable Experience
+- 🧱 Built and shipped **client-facing SaaS systems** (POS, booking, dashboards)
+- ⚙️ Automated tenant provisioning & backend workflows
+- 🏢 Worked as a **Software Engineer & Intern (Web/App)** alongside university
+- 🎓 CS graduate from **FAST NUCES, Islamabad**
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=furtherafay&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furtherafay" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=furtherafay&layout=compact" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/rafay-siddiqui-868a57219/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" />
+  </a>
+</p>
+
+<p align="center">
+💬 Always open to discussing SaaS ideas, systems design, or building something useful.
+</p>
